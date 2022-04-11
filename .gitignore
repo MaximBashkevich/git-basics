@@ -1,3 +1,4 @@
 logs/*.log
 !logs/sample.log
 js/test2.py
+/js/js/test.js
